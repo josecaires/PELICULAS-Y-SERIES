@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://ths7jg.by.files.1drv.com/y4pw82bJpBCPE7n7XXEfJ2XMVjq_r3r5f_fo4fkXfpiRHDJ3FOQKwK2-aGhU9gKsoP8Ifnefjm4XAddDuivEMihe-sKJJ2RMmZwxXbeco5JmIhhxzyWWR6g21oBIxXweDcRV-6dfA1QG3xriaDYfAExq8hEscCIkg5yGbpYm0jRNSzDpnJXmRm9OZNpONI3fE1h8r-g9GK65xRVNmMAfYsGHvrR4E9p4dwBeuIJ0AXubfo/formato%20sistema%20multimedia.jpg",@joseluiscaires
+
 #EXTINF:0 group-title="SERIE BREAKIND BAD" tvg-logo="https://m.media-amazon.com/images/I/71DbxVeolpS._AC_UL320_.jpg",TEMP 1 CAP 1
 http://201.172.61.81:85/series/Enero/1BREACKING%20BAD/T1/%5bPorMega.com%5dBr3ak1ngB4d-LatinoS01E01.mp4
 #EXTINF:0 group-title="SERIE BREAKIND BAD" tvg-logo="https://m.media-amazon.com/images/I/71DbxVeolpS._AC_UL320_.jpg",TEMP 1 CAP 2
@@ -283,3 +285,120 @@ http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATIN
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E09.mp4
 #EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 2 CAP 10
 http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E10.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg",REDADA ASESINA (2011)
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://img.aullidos.com/imagenes/caratulas/crimen-a-contrareloj.jfif",CRIMEN A CONTRA RELOJ (2020)
+http://m0478.contaboserver.net/Bryan/Arrow_T4/pelisarreglar/%e2%96%b7%20Ver%20Crimen%20a%20Contrarreloj%20Pelicula%20Completa%20Online%20en%20Espa%c3%b1ol%20Latino.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://www.joblo.com/assets/images/joblo/posters/2020/06/Ava-poster-1.jpg",AVA (2020)
+http://201.172.61.81:85/peliculas/sagas/Ava.(2020).HD.1080p.Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://pics.filmaffinity.com/cut_throat_city-319016613-mmed.jpg",CUT THROAT CITY (2020)
+http://201.172.61.81:85/peliculas/sagas/Cut.Throat.City.2020.HD.720p.Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://pics.filmaffinity.com/faith_under_fire-431354145-mmed.jpg",FAITH UNDER FIRE (2020)
+http://201.172.61.81:85/peliculas/sagas/Faith.Under.Fire.2020.HD.1080p.Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://media.filmelier.com/images/filmes/cartaz/behind-the-line-escape-to-dunkirk11391.jpeg", DETRAS DE LA LINEA DE ESCAPE (2020)
+http://201.172.61.81:85/peliculas/sagas/Detr%c3%a1s%20de%20la%20l%c3%adnea-%20Escape%20a%20Dunkerque%20(2020)%201080p%20WEB-DL%20Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://i0.wp.com/image.tmdb.org/t/p/w185/82doZh3JlQGMeTshfoMNbh087l7.jpg",FEET FROM HOME (2019)
+http://201.172.61.81:85/peliculas/sagas/90.Feet.from.Home.2019.WEB-DL.1080p.Latino..mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="http://www.nochedecine.com/wp-content/uploads/2018/10/nt_18_Poster-A-Ciegas-interior-203x300.jpg",A CIEGAS (2020)
+http://201.172.61.81:85/peliculas/sagas/A%20Ciegas%20(2020)%20HD%201080p%20Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/51Gh9OaWVcL.jpg",DEADPOOL (2016)
+https://archive.org/download/DeSRREGIO_201802/DeSRREGIO.mkv
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://www.joblo.com/assets/images/joblo/posters/2020/06/Ava-poster-1.jpg",AVA (2020)
+http://201.172.61.81:85/peliculas/sagas/Ava.(2020).HD.1080p.Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://pics.filmaffinity.com/7_guardians_of_the_tomb-702319197-msmall.jpg",GUARDIANES DE LA TUMBA (2018)
+http://24.138.249.6/Peliculas/Espanol/7%20Guardians%20of%20the%20Tomb%20(2018).mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://images2.coveralia.com/dvd/1/12-valientes-cartel.jpg",12 VALIENTES (2018)
+http://24.138.249.6/Peliculas/Espanol/12%20Strong%20(2018).mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://www.cine.com/peliculas4/107268/cartel/107268_cartel.jpg", 420 MASACRE (2018)
+http://24.138.249.6/Peliculas/Espanol/420%20Massacre%20(2018).mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="http://gnula.nu/wp-content/uploads/2019/03/A_Killer_Walks_Amongst_Us_poster_usa.jpg",A KILLER WALKS AMONGST US (2016)
+http://24.138.249.6/Peliculas/Espanol/A%20Killer%20Walks%20Amongst%20Us%20(2016).mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/20/12/18/10/24/4751126.jpg",PALMER (2021)
+http://201.172.61.203:88/Peliculas/Danna/Palmer.2021.WEB-DL.1080p.Latino.www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://cdn.cinematerial.com/p/297x/bcbk2qqa/come-play-movie-poster-md.jpg?v=1602762695",COME PLAY (2020)
+http://201.172.61.81:85/peliculas/sagas/Come.Play.2020.HD.720p.Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://rmarketingdigital.com/wp-content/uploads/2021/03/54354543535543-5671586.jpg",TODO MIS AMIGOS MUERTOS (2021)
+http://201.172.61.203:88/Peliculas/Danna/Todos%20Mis%20Amigos%20Est%c3%a1n%20Muertos%20(2020)%20NF%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://s.movieinsider.com/images/p/600//574261_m1609452641.jpg",THE LITTLE THINGS (2021)
+http://201.172.61.203:88/Peliculas/Danna/The%20Little%20Things%20(2021)%20%5b2160p%20HDR%20HMAX%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="https://www.guiadelocio.com/var/guiadelocio.com/storage/images/cine/archivo-peliculas/6-dias/34714174-4-esl-ES/6-dias.jpg",6 DIAS (2017)
+http://24.138.249.6/Peliculas/Espanol/6%20Days%20(2017).mp4
+#EXTINF:0 group-title="PELICULA ACCION" tvg-logo="http://es.web.img3.acsta.net/r_1280_720/pictures/14/03/04/12/57/369750.jpg",AMERICAN PIE (1999)
+https://bit.ly/2KS5ucG
+#EXTINF:0 group-title="PELICULA COMEDIA" tvg-logo="https://pics.filmaffinity.com/the_map_of_tiny_perfect_things-492977695-mmed.jpg",EL MAPA DE LO INSTANTES (2021)
+http://201.172.61.203:88/Peliculas/Febrero/El%20Mapa%20de%20los%20Instantes%20Perfectos%20(2021)%20AMZN%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp
+#EXTINF:0 group-title="PELICULA COMEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAyx-1vRyE25FMcaJrvvLYvhTo9Mz1x4Mhww&usqp=CAU",NOSOTROS LOS NOBLES (2013)
+https://archive.org/download/NoLoNoSRREGIO_20180212/NoLoNoSRREGIO.mp4
+#EXTINF:0 group-title="PELICULA COMEDIA" tvg-logo="https://images2.coveralia.com/dvd/t/tu-mejor-amigo-un-nuevo-viaje-cartel5.jpg",TU MEJOR AMIGO (2019)
+http://24.138.249.6/Peliculas/Espanol/A%20Dog's%20Journey%20(2019).mp4
+#EXTINF:0 group-title="PELICULA COMEDIA" tvg-logo="https://decine21.com/img/upload/obras/amor-al-cuadrado-43145/amor-al-cuadrado-43145-c.jpg",AMOR AL CUADRADO (2021)
+http://201.172.61.203:88/Peliculas/Febrero/Amor%20al%20Cuadrado%20(2021)%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA COMEDIA" tvg-logo="https://www.joblo.com/assets/images/oldsite/posters/images/full/2003-guy_thing-1_thumb.jpg",A GUY THING (2003)
+http://24.138.249.6/Peliculas/Espanol/A%20Guy%20Thing%20(2003).mp4
+#EXTINF:0 group-title="PELICULA COMEDIA" tvg-logo="https://www.covercaratulas.com/mini-caratula-carteles-Bia_Un_Mundo_Al_Reves_Por_Mrandrewpalace-38817.jpg",UN MUNDO AL REVES (2021)
+http://201.172.61.203:88/Peliculas/Febrero/Bia%20-%20Un%20mundo%20al%20rev%c3%a9s%20(2021)%20%5b1080p%20DSNP%20WEB-DL%5d.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA TERROR Y SUSPENSO" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg",THE CLOVERFIELD PARADOX (2018)
+https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:0 group-title="PELICULA TERROR Y SUSPENSO" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg",JIGSAW (2017) 
+https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
+#EXTINF:0 group-title="PELICULA TERROR Y SUSPENSO" tvg-logo="https://i.etsystatic.com/29369216/d/il/053064/3106585218/il_340x270.3106585218_rc41.jpg?version=0",SAW VIII (2017)
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:0 group-title="PELICULA TERROR Y SUSPENSO" tvg-logo="https://i.imgur.com/CbioUF8.jpg",3 DEL INFIERNO (2018)
+http://24.138.249.6/Peliculas/Espanol/3%20from%20Hell%20(2019).mp4
+#EXTINF:0 group-title="PELICULA DRAMA" tvg-logo="https://www.covercaratulas.com/ode/mini_mini/divx-34554-a.jpg",42 LEYENDA DEL DEPORTE (2013)
+http://24.138.249.6/Peliculas/Espanol/42%20(2013).mp4
+#EXTINF:0 group-title="PELICULA DRAMA" tvg-logo="https://img.ecartelera.com/noticias/fotos/31800/31868/2.jpg",UN MOUNSTRUO VIENE A VERME(2016)
+http://24.138.249.6/Peliculas/Espanol/A%20Monster%20Calls%20(2016).mp4
+#EXTINF:0 group-title="PELICULA DRAMA" tvg-logo="https://pad.mymovies.it/filmclub/2021/01/052/imm.jpg",EL ULTIMO PARADISO(2021)
+http://201.172.61.203:88/Peliculas/Febrero/L'ultimo%20Paradiso%20(2021)%20NF%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA DRAMA" tvg-logo="https://es.web.img3.acsta.net/newsv7/21/01/09/16/15/4611244.jpg",MALCOLM Y MARIE(2021)
+http://201.172.61.203:88/Peliculas/Febrero/Malcolm%20y%20Marie%20(2021)%20NF%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA DRAMA" tvg-logo="https://pics.filmaffinity.com/fear_of_rain-714686374-msmall.jpg",MIEDO A LA LLUVIA(2021)
+http://201.172.61.203:88/Peliculas/Febrero/Miedo%20a%20la%20lluvia%20(2021)%20BRRip%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA DRAMA" tvg-logo="https://imagenes.gatotv.com/categorias/peliculas/posters/punto_rojo_2021.jpg",PUNTO ROJO(2021)
+http://201.172.61.203:88/Peliculas/Febrero/Punto%20Rojo%20(2021)%20WEB-DL%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA DRAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/All_the_Bright_Places.jpeg/220px-All_the_Bright_Places.jpeg",ALL THE BRIGHT PLACES (2020)
+http://dl.radioplayer.ir/Movie/Foreign/2020/All.The.Bright.Places.2020.480p.BluRay.SUBFA.mp4
+#EXTINF:0 group-title="PELICULA DRAMA" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/1530.jpg",10 COSAS QUE ODIO DE TI (2020)
+http://m0478.contaboserver.net/Bryan/Arrow_T4/pelisarreglar/%e2%96%b7%20Ver%2010%20Cosas%20que%20Odio%20de%20Ti%20Pelicula%20Completa%20Online%20en%20Espa%c3%b1ol%20Latino.mp4
+#EXTINF:0 group-title="PELICULA SYFY" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg",TERMINUS (2015)
+https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:0 group-title="PELICULA INFANTILES" tvg-logo="https://i1.wp.com/www.proximosestrenos.com.ar/wp-content/uploads/2015/04/poster-intensamente.jpg",INTENSAMENTE (2015) 
+https://archive.org/download/IntMSRREGIO/IntMSRREGIO.mkv
+#EXTINF:0 group-title="PELICULA INFANTILES" tvg-logo="https://basededatos.atrae.org/media/works/aqSQCTtehs7bF8VhpnAtrP5yUo_U8aeJ04.jpg",6 GLOBOS (2018)
+http://24.138.249.6/Peliculas/Espanol/6%20Balloons%20(2018).mp4
+#EXTINF:0 group-title="PELICULA INFANTILES" tvg-logo="http://www.clubmagazine.cl/wp-content/uploads/2021/01/FLORA-Y-ULISES-POSTER-DISNEY.jpg",FLORA Y ULISES(2021)
+http://201.172.61.203:88/Peliculas/Febrero/Flora%20&%20Ulises%20(2021.mp4
+#EXTINF:0 group-title="PELICULA INFANTILES" tvg-logo="https://es.web.img3.acsta.net/r_1280_720/pictures/20/08/31/16/29/2620675.jpg",PEQUEÑO GRAN LOBO (2020)
+http://201.172.61.81:85/peliculas/sagas/100%25Wolf-Peque%c3%b1ogranlobo(2020)1080pWEB-DL.www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA INFANTILES" tvg-logo="https://image.tmdb.org/t/p/w300/t7gNfiDRZLgNka0Q7hPmRgmxLoG.jpg",BOBBLEHEADS (2020)
+http://201.172.61.81:85/peliculas/sagas/Bobbleheads.The.Movie.2020.WEB-DL.1080p.Latino...mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA INFANTILES" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/61k5XY-BTyL._AC_UL160_.jpg",CAPITAN UNDERPANTS (2020)
+http://201.172.61.81:85/peliculas/sagas/Captain.Underpants.Mega.Blissmas.2020.WEB-DL.1080p.Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA INFANTILES" tvg-logo="https://filmlicious.co/image/165x260/posts/2020-11/1604770794_841d48dad4203a71c0846066842f8a64.jpg",COMBAT WONBAT (2020)
+http://201.172.61.81:85/peliculas/sagas/Combat.Wombat.2020.HD.1080p.Latino.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA INFANTILES" tvg-logo="https://resizing.flixster.com/SmL8krlsuEijWUZXflU6xUuTqRc=/206x305/v2/https://flxt.tmsimg.com/assets/p18865250_p_v10_ab.jpg", CONSOLE WAR (2020)
+http://201.172.61.81:85/peliculas/sagas/Console.Wars.2020.1080p.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA INFANTILES" tvg-logo="https://pics.filmaffinity.com/dragons_rescue_riders_hunt_for_the_golden_dragon_tv-823393043-mmed.jpg",DRAGONS RESCUE RIDERS (2020)
+http://201.172.61.81:85/peliculas/sagas/Dragons.Rescue.Riders.Huttsgalor.Holiday.2020.HD.720P.LA.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="PELICULA INFANTILES" tvg-logo="https://s3-eu-west-1.amazonaws.com/abandomedia/db/foto/db_41679.jpg",Scooby.Doo.The.Sword.And.The.Scoob(2021)
+http://201.172.61.203:88/Peliculas/Febrero/Scooby.Doo.The.Sword.And.The.Scoob.2021.mp4
+#EXTINF:0 group-title="CONCIERTO" tvg-logo="https://www.disneylapresspack.com/storage/posts/1617625261_Disney+ Soy Luna El ultimo concierto.png",SOY LUNA ULTIMO CONCIERTO(2021)
+http://201.172.61.203:88/Peliculas/Febrero/Soy%20Luna%20el%20Ultimo%20Concierto%20(2021)%20720p%20WEB-DL%20Latino%20-%20..www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="DOCUMENTALES" tvg-logo="http://images2.coveralia.com/dvd/l/la-cura-del-bienestar-cartel2.jpg", LA CURA DEL BIENESTAR (2016)
+http://24.138.249.6/Peliculas/Espanol/A%20Cure%20for%20Wellness%20(2016)%20.mp4
+#EXTINF:0 group-title="DOCUMENTALES" tvg-logo="https://media2.firstshowing.net/firstshowing/img12/BlackartPosterHBODocmainimg5991.jpg", In the Absence of Light (2021) 
+http://201.172.61.203:88/Peliculas/Febrero/Black%20Art-%20In%20the%20Absence%20of%20Light%20(2021)%20%5b1080p%20HBOGO%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
+#EXTINF:0 group-title="DOCUMENTALES" tvg-logo="http://gnula.nu/wp-content/uploads/2021/02/Marvels_Behind_the_Mask_poster_usa.jpg",DETRAS DE LA MASCARA (2021)
+http://201.172.61.203:88/Peliculas/Febrero/Detras%20de%20la%20mascara%202021.mp4
+
+
+
+
+
+
+
+
+
+
+
