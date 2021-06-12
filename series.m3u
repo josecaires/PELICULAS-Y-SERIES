@@ -1,6 +1,117 @@
 #EXTM3U
 #EXTINF:0 tvg-logo="https://ths7jg.by.files.1drv.com/y4pw82bJpBCPE7n7XXEfJ2XMVjq_r3r5f_fo4fkXfpiRHDJ3FOQKwK2-aGhU9gKsoP8Ifnefjm4XAddDuivEMihe-sKJJ2RMmZwxXbeco5JmIhhxzyWWR6g21oBIxXweDcRV-6dfA1QG3xriaDYfAExq8hEscCIkg5yGbpYm0jRNSzDpnJXmRm9OZNpONI3fE1h8r-g9GK65xRVNmMAfYsGHvrR4E9p4dwBeuIJ0AXubfo/formato%20sistema%20multimedia.jpg",@joseluiscaires
-
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 1 CAP 1
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x01.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 1 CAP 2
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x02.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 1 CAP 3
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x03.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 1 CAP 4
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x04.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 1 CAP 5
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x05.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 1 CAP 6
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x06.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 1 CAP 7
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x07.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 1 CAP 8
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x08.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 1
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x1.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 2
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x2.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 3
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x3.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 4
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x4.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 5
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x5.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 6
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x6.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 7
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x7.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 8
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x8.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 9
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x9.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 10
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x10.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 11
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x11.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 2 CAP 12
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%202/ch-hdl-2x12.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 1
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x01.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 2
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x02.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 3
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x03.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 4
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x04.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 5
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x05.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 6
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x06.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 7
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x07.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 8
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x08.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 9
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x09.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 10
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x10.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 11
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x11.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 12
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x12.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",EL CHAPO TEMP 3 CAP 13
+http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%203/CH3x13.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",ENTRE VERDADEROS NARCOS CAP 1
+http://201.172.61.81:85/series/Novelas/Entre%20Verdaderos%20Narcos/S0.E01.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",ENTRE VERDADEROS NARCOS CAP 2
+http://201.172.61.81:85/series/Novelas/Entre%20Verdaderos%20Narcos/S0.E02.mp4
+#EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",ENTRE VERDADEROS NARCOS CAP 3
+http://201.172.61.81:85/series/Novelas/Entre%20Verdaderos%20Narcos/S0.E03.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 1 CAP 1
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E01.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 1 CAP 2
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E02.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 1 CAP 3
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E03.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 1 CAP 4
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E04.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 1 CAP 5
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E05.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 1 CAP 6
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E06.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 1 CAP 7
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E07.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 1 CAP 8
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E08.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 1 CAP 9
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E09.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 1 CAP 10
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T1/G.O.T.1080p.LATINO.S01E10.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 2 CAP 1
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E01.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 2 CAP 2
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E02.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 2 CAP 3
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E03.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 2 CAP 4
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E04.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 2 CAP 5
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E05.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 2 CAP 6
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E06.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 2 CAP 7
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E07.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 2 CAP 8
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E08.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 2 CAP 9
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E09.mp4
+#EXTINF:0 group-title="SERIE GAME OF THRONES" tvg-logo="https://www.covercaratulas.com/ode/mini_ficha/30436.jpg",TEMP 2 CAP 10
+http://201.172.61.81:85/series/Enero/MKVGame%20of%20thrones/T2/G.O.T.1080p.LATINO.S02E10.mp4
 #EXTINF:0 group-title="SERIE BREAKIND BAD" tvg-logo="https://m.media-amazon.com/images/I/71DbxVeolpS._AC_UL320_.jpg",TEMP 1 CAP 1
 http://201.172.61.81:85/series/Enero/1BREACKING%20BAD/T1/%5bPorMega.com%5dBr3ak1ngB4d-LatinoS01E01.mp4
 #EXTINF:0 group-title="SERIE BREAKIND BAD" tvg-logo="https://m.media-amazon.com/images/I/71DbxVeolpS._AC_UL320_.jpg",TEMP 1 CAP 2
