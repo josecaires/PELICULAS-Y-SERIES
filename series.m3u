@@ -1,5 +1,5 @@
-#EXTM3U
-#EXTINF:0 tvg-logo="https://ths7jg.by.files.1drv.com/y4pw82bJpBCPE7n7XXEfJ2XMVjq_r3r5f_fo4fkXfpiRHDJ3FOQKwK2-aGhU9gKsoP8Ifnefjm4XAddDuivEMihe-sKJJ2RMmZwxXbeco5JmIhhxzyWWR6g21oBIxXweDcRV-6dfA1QG3xriaDYfAExq8hEscCIkg5yGbpYm0jRNSzDpnJXmRm9OZNpONI3fE1h8r-g9GK65xRVNmMAfYsGHvrR4E9p4dwBeuIJ0AXubfo/formato%20sistema%20multimedia.jpg",@joseluiscaires
+#EXTM3
+#EXTINF:0 tvg-logo="https://mega.nz/file/lbQwGBqD#TIRzF6jzPN6YJvwFOR0InpMSVOEyFFp2j0x6vyPInBM",@joseluiscaires
 
 #EXTINF:0 group-title="SERIE EL CHAPO" tvg-logo="https://mx.web.img3.acsta.net/r_1920_1080/pictures/19/06/06/22/25/0254154.jpg",TEMP 1 CAP 1
 http://201.172.61.81:85/series/Novelas/Chapo/TEMPORADA%201/El%20Chapo%201x01.mp4
@@ -417,6 +417,8 @@ http://201.172.61.203:88/Peliculas/Febrero/Bia%20-%20Un%20mundo%20al%20rev%c3%a9
 http://201.172.61.203:88/Peliculas/Febrero/Coming%202%20America%20(2021)%20%5b1080p%20AMZN%20WEB-DL%5d%20%5bzgnrips%5d.mkv%20-%20Google%20Drive.mp4
 #EXTINF:0 group-title="PELICULA TERROR Y SUSPENSO" tvg-logo="http://www.joblo.com/posters/images/full/cloverfield-3-poster-xl.jpg",THE CLOVERFIELD PARADOX (2018)
 https://ia801509.us.archive.org/32/items/tcSRREGIO/tcSRREGIO.mp4
+#EXTINF:0 group-title="PELICULA TERROR Y SUSPENSO" tvg-logo="https://es.web.img3.acsta.net/r_1920_1080/pictures/21/03/17/13/18/1808324.jpg",RUEGA POR NOSOTROS (2021)
+http://ipeteve.com/REGIOFLIX100321/Ruega.por.nosotros.SrRegio.mkv
 #EXTINF:0 group-title="PELICULA TERROR Y SUSPENSO" tvg-logo="
 #EXTINF:0 group-title="PELICULA TERROR Y SUSPENSO" tvg-logo="https://i1.wp.com/bloody-disgusting.com/wp-content/uploads/2017/10/jigsaw-poster.jpg",JIGSAW (2017) 
 https://archive.org/download/JS8SRREGIO_201801/JS8SRREGIO.mkv
@@ -442,6 +444,10 @@ http://dl.radioplayer.ir/Movie/Foreign/2020/All.The.Bright.Places.2020.480p.BluR
 http://m0478.contaboserver.net/Bryan/Arrow_T4/pelisarreglar/%e2%96%b7%20Ver%2010%20Cosas%20que%20Odio%20de%20Ti%20Pelicula%20Completa%20Online%20en%20Espa%c3%b1ol%20Latino.mp4
 #EXTINF:0 group-title="PELICULA FANTASIA" tvg-logo="https://cdn.traileraddict.com/content/vertical-entertainment/terminus-poster.jpg",TERMINUS (2015)
 https://archive.org/download/TerSSRREGIO/TerSSRREGIO.mkv
+#EXTINF:0 group-title="PELICULA FANTASIA" tvg-logo="https://miradetodo.co/wp-content/uploads/2021/03/tt5034838.jpg",GODZILLA VS KONG (2021)
+http://ipeteve.com/REGIOFLIX100321/g0dz1ll4.vs.k0ng.2021.hdrip.720p.latinoSrRegio.mp4
+#EXTINF:0 group-title="PELICULA FANTASIA" tvg-logo="https://miradetodo.co/wp-content/uploads/2021/04/tt0293429.jpg",MORTAL COMBAT (2021)
+http://ipeteve.com/REGIOFLIX100321/m0rt4l.k0mb4t.2021.hdrip.720p.latino.mp4
 #EXTINF:0 group-title="PELICULA ROMANCE" tvg-logo="https://pics.filmaffinity.com/the_map_of_tiny_perfect_things-492977695-msmall.jpg",EL MAPA DE LO INSTANTES PERFECTO (2021)
 http://201.172.61.203:88/Peliculas/Febrero/El%20Mapa%20de%20los%20Instantes%20Perfectos%20(2021)%20AMZN%201080p%20Latino%20www.peliculasgoogledrive.info.mkv%20-%20Google%20Drive.mp4
 #EXTINF:0 group-title="PELICULA INFANTILES" tvg-logo="https://i.pinimg.com/236x/50/c1/d2/50c1d24a6f761cde7f84cb15c956a16e.jpg",RAYA Y EL DRAGON (2021)
